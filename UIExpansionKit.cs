@@ -1,6 +1,4 @@
-﻿using PhysBoneLimiter;
-
-namespace PhysBonesLimiter
+﻿namespace PhysBonesLimiter
 {
     internal class UIExpansionKit
     {
